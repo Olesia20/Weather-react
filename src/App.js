@@ -65,15 +65,15 @@ function App() {
             </div>
           </div>
         </div>
-        <h6 className="github">
+        <div className="github">
           <a
             className="linkhub"
             href="https://github.com/Olesia20/Weather-react"
           >
             Open-source code,
           </a>
-          by Olesia Kononova
-        </h6>
+          {""} by Olesia Kononova
+        </div>
       </header>
     </div>
   );
