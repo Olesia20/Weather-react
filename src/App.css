@@ -20,15 +20,14 @@ li {
   line-height: 1.5;
   list-style: none;
 }
-  h4 {
+h4 {
   font-family: "IBM Plex Mono", monospace;
   font-size: 17px;
   font-weight: 200;
   color: rgb(68, 70, 70);
-text-align: center;
+  text-align: center;
 }
 .weather {
-  border: 0px solid );
   padding: 20px;
   margin: 15px auto;
   border-radius: 20px;
@@ -44,24 +43,18 @@ text-align: center;
   font-size: 40px;
   line-height: 3;
 }
-.celsius{
-font-size: 40px;
+.celsius {
+  font-size: 40px;
 }
-.fahrenheit{
-font-size: 40px;
+.fahrenheit {
+  font-size: 40px;
 }
 .degry {
   color: rgb(148, 151, 151);
   font-weight: 200;
 }
-.button {
-  border: 0px solid #247291;
-  background: #276577;
-  color: aliceblue;
-  border-radius: 8px;
 
-}
-.buttonNew{
+.buttonNew {
   position: relative;
   margin-left: 340px;
   padding: 8px 8px;
@@ -69,10 +62,9 @@ font-size: 40px;
   background: #276577;
   color: aliceblue;
   border-radius: 8px;
- 
 }
 .week {
-  border: 1px solid  #276577;
+  border: 1px solid #276577;
   margin-top: 80px;
   margin-right: 10px;
   margin-left: 10px;
@@ -91,10 +83,18 @@ font-size: 40px;
   color: #276577;
   font-weight: 400;
 }
-a{
+a {
   text-decoration: none;
   color: rgb(253, 251, 255);
 }
-.StrictMode{
+.StrictMode {
   margin-left: 150px;
+}
+.github {
+  color: black;
+  text-align: center;
+  display: block;
+}
+.linkhub {
+  color: black;
 }

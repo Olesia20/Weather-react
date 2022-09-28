@@ -58,17 +58,22 @@ function App() {
                   autofocus="on"
                   aria-label="search"
                 />
-                <button
-                  className="button"
-                  className="form-control shadow"
-                  type="submit"
-                >
+                <button className="form-control shadow" type="submit">
                   Search
                 </button>
               </form>
             </div>
           </div>
         </div>
+        <h6 className="github">
+          <a
+            className="linkhub"
+            href="https://github.com/Olesia20/Weather-react"
+          >
+            Open-source code,
+          </a>
+          by Olesia Kononova
+        </h6>
       </header>
     </div>
   );
